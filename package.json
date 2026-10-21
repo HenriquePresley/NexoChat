@@ -1,0 +1,24 @@
+{
+  "name": "nexochat",
+  "version": "1.0.0",
+  "description": "NexoChat: central de atendimento para provedores de internet com WhatsApp, IA e SGP",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "testar-ia": "node diagnostico-ia.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.133.0",
+    "@whiskeysockets/baileys": "7.0.0-rc14",
+    "express": "5.1.0",
+    "multer": "2.0.2",
+    "openai": "7.32.0",
+    "pino": "9.7.0",
+    "qrcode": "1.5.4",
+    "socket.io": "4.8.1"
+  }
+}
