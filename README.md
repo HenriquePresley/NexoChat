@@ -6,7 +6,7 @@ A IA atende os clientes sozinha: identifica o cliente pelo CPF, vê se a conexã
 envia a 2ª via da fatura com Pix e transfere para o setor certo quando o assunto precisa de uma pessoa.
 Os atendentes trabalham num painel web com filas, setores, etiquetas e relatórios.
 
-🔗 **Demonstração ao vivo:** https://SEU-USUARIO.github.io/nexochat/ *(dados fictícios, roda no navegador)*
+🔗 **Demonstração ao vivo:** https:/HenriquePresley.github.io/nexochat/ *(dados fictícios, roda no navegador)*
 
 > Projeto feito a pedido do dono de um provedor de internet onde trabalhei no suporte, desenvolvido em *vibe coding*
 > com assistentes de IA (Claude e Codex). Eu defini as regras a partir da rotina real do suporte, testei e fui
